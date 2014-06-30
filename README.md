@@ -1,6 +1,6 @@
 # nwitch-motivate
 
-nwitch (and slate-irc) plugin for [motivating](http://motivate.im/) people.
+[nwitch][] (and [slate-irc][]) plugin for [motivating](http://motivate.im/) people.
 
 ``` irc
 05:34 <KenanY> !m Bob
