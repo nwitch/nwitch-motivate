@@ -1,5 +1,7 @@
 # nwitch-motivate
 
+[![Build Status](https://travis-ci.org/nwitch/nwitch-motivate.svg)](https://travis-ci.org/nwitch/nwitch-motivate)
+
 [nwitch][] (and [slate-irc][]) plugin for [motivating](http://motivate.im/) people.
 
 ``` irc
